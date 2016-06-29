@@ -1,5 +1,6 @@
 module.exports = {
-  contracts_directory: "../contracts",
+  working_directory: "truffle",
+  contracts_directory: "contracts",
   rpc: {
     host: "localhost",
     port: 8545
